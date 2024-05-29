@@ -1,1 +1,2 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brillianintdoh&donut_chart_layout=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brillianintdoh&donut_vertical_chart_layout=true)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
