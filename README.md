@@ -12,5 +12,5 @@
     - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 <a href="https://matilto:palanghwi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-#EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-F051385?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
