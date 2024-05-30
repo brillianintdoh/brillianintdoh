@@ -6,10 +6,13 @@
     - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 - 주로 쓰는 DB
-    - ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+    - <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white">
 
-- 서버 os
-    - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+- 주로 쓰는 라이브러리
+    - <img src="https://img.shields.io/badge/htmx-3366CC?style=flat-square&logo=htmx&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white">
+
+- 그외
+    - <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
 
 <a href="https://matilto:palanghwi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-F051385?style=flat-square&logo=Gmail&logoColor=white"/>
